@@ -1,0 +1,34 @@
+stdClass Object
+(
+    [userid] => 2
+    [company] => GKey
+    [vat] => 12312341
+    [phonenumber] => 98854654
+    [country] => 236
+    [city] => Elgin
+    [zip] => 78621
+    [state] => TX
+    [address] => 804 LLOYD LN
+    [website] => website
+    [datecreated] => 2024-09-23 04:20:03
+    [active] => 1
+    [leadid] => 
+    [billing_street] => 
+    [billing_city] => 
+    [billing_state] => 
+    [billing_zip] => 
+    [billing_country] => 236
+    [shipping_street] => 
+    [shipping_city] => 
+    [shipping_state] => 
+    [shipping_zip] => 
+    [shipping_country] => 236
+    [longitude] => 
+    [latitude] => 
+    [default_language] => 
+    [default_currency] => 0
+    [show_primary_contact] => 0
+    [stripe_id] => 
+    [registration_confirmed] => 1
+    [addedfrom] => 1
+)
